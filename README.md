@@ -25,7 +25,7 @@
   <li><strong>data/:</strong> Contains the dataset(s) used for training and testing the models.</li>
   <li>I<strong>nflationProject:</strong> Notebook containing inflation prediction model</li>
   <li><strong>README.md:</strong> This file, providing an overview of the project.</li>
-  <li><strong>Inflation_Prediction_Presentation v2.pptx:</strong> Presentation slide for inflaiton forecast project</li>
+  <li><strong>Inflation_Prediction_Presentation v2.pptx:</strong> Presentation slide for inflation forecast project</li>
 </ul>
 
 <h3>Results</h3>
