@@ -10,7 +10,7 @@
   <li>Data Preprocessing: The project includes steps for cleaning, normalizing, and transforming the data, ensuring it is ready for model training.</li>
   <li>
     <ul>
-      <li><strong>Modeling Approaches:</strong> Different modeling strategies were explored:</li>
+      <strong>Modeling Approaches:</strong> Different modeling strategies were explored:
       <li><strong>XGBoost:</strong> Initially used but faced limitations in extrapolation.</li>
       <li><strong>Bayesian Regression:</strong> Used for capturing trends effectively.</li>
       <li><strong>Hybrid Model:</strong> Combines Bayesian regression for trend modeling and XGBoost for capturing noise in the data.</li>
