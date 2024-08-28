@@ -1,13 +1,13 @@
 <div>
   <h1>Inflation Rate Prediction Project</h1>
-<p>This repository contains the code and documentation for an inflation rate prediction project developed as part of an introductory course on Machine Learning Engineering at Dpro.</p>
+<p>This repository contains the code and documentation for an inflation rate prediction project developed as part of an introductory course on Machine Learning Engineering organized by The Association for Overseas Technical Cooperation and Sustainable Partnership (AOTS) in collaboration with the University of Abuja and Baze University.</p>
   
 <h3>Project Overview</h3>
 <p>Inflation forecasting is a critical task in economics and finance, influencing policy-making, investment decisions, and cost-of-living adjustments. This project aims to build a predictive model that accurately forecasts inflation rates using various machine learning techniques.</p>
 
 <h3>Key Features:</h3>
 <ul>
-  <li>Data Preprocessing: The project includes steps for cleaning, normalizing, and transforming the data, ensuring it is ready for model training.</li>
+  <li><strong>Data Preprocessing:</strong> The project includes steps for cleaning, normalizing, and transforming the data, ensuring it is ready for model training.</li>
   <li>
     <strong>Modeling Approaches:</strong> Different modeling strategies were explored:
     <ul>
@@ -42,6 +42,7 @@
 
 <h3>Acknowledgments</h3>
 <ul>
+  <li><strong>Organizers: </strong>The Association for Overseas Technical Cooperation and Sustainable Partnership (AOTS), University of Abuja, and Baze University for organizing the Machine Learning Engineering course.</li>
   <li><strong>Instructor: </strong> Special thanks to the instructors of the Machine Learning Engineering course at Dpro for their guidance.</li>
   <li><strong>Community: </strong>Grateful for the feedback and suggestions from peers and the online machine learning community.</li>
 </ul>
